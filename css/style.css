@@ -1,0 +1,19 @@
+.ft-settings tr td{
+    vertical-align: top;
+}
+.ft-second{
+    width: 25em;
+}
+.ft-description{
+    width: 25em;
+}
+.ft-fist-td{
+    width: 25em;
+}
+.ft-check tr td{
+    vertical-align: top;
+    padding-left: 0;
+}
+.ft-check h4{
+    margin-top: 0;
+}

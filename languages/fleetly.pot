@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fleetly infromer\n"
+"POT-Creation-Date: 2015-05-19 18:45+0200\n"
+"PO-Revision-Date: 2015-05-19 18:46+0200\n"
+"Last-Translator: Andrey Stepasyuk <s544836@gmail.com>\n"
+"Language-Team:  <s544836@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\NetBeansProjects\\fleetly\\wp-content\\plugins"
+"\\informers\n"
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:83
+msgid "Fleetly Informer"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:83
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:106
+msgid "Fleetly Settings"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:112
+msgid "Site ID"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:115
+msgid "For example 34"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:118
+msgid ""
+"You can ask your manager for values of these fields or copy them from "
+"fleetly.net on informer settings page."
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:122
+msgid "API Key"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:124
+msgid "For example 3826ecef747411ed45654637bc61b0a3"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:127
+msgid "API URL"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:129
+msgid "For example http://distributor.fleetly.net/api"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:142
+msgid "Check informer for the page:"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:143
+msgid "For example http://example.com/mypage"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:145
+msgid "Check"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:149
+msgid "Result:"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/widget.php:12
+msgid "Displays fleetly informer"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/widget.php:13
+msgid "Fleetly informer widget"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/widget.php:18
+msgid "Informer"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/widget.php:44
+msgid "Title:"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:69
+msgid "No informer"
+msgstr ""
+
+#: D:\NetBeansProjects\fleetly\wp-content\plugins\informers/index.php:171
+msgid ""
+"You can display informer through widget or add it anywhere with shortcode "
+"<code>[fleetly-informer]</code>"
+msgstr ""
